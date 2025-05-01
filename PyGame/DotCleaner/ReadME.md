@@ -17,6 +17,6 @@ It also now features a tail.
 
 ## Dot Cleaner Thruster Plus
 
-The thruster plus version of Dot Cleaner operates similar to snake. The red dot still moves via a thruster, but it now builds a tail as it collects green dots. The player can still manually place green dots, but the game will automatically place green dots periodically.
+The thruster plus version of Dot Cleaner operates similarly to Snake. The red dot still moves via a thruster, but it now builds a tail as it collects green dots. The player can still manually place green dots, but the game will automatically place green dots periodically.
 
 <img src="DotCleanerThrusterPlus.png" width="400" >
