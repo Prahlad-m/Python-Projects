@@ -1,9 +1,10 @@
+###This is a simple snake game using pygame.
 import pygame
 import time
 import random
 pygame.init()
 
-
+#configurations
 blue = (50,153,213)
 red = (213,50,80)
 yellow = (255,255,102)
@@ -15,10 +16,6 @@ dis_width = 500
 dis_height = 500
 dis = pygame.display.set_mode((dis_width, dis_height))
 pygame.display.set_caption('Snake game')
-
-game_over = False
-
-
 
 clock = pygame.time.Clock()
 
